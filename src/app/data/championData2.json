@@ -1998,5 +1998,29 @@
     "name": "Quinn",
     "title": "Demacia's Wings",
     "tags": ["Marksman", "Assassin"]
+  },
+  "Jade_Hecarim": {
+    "version": "16.15.1",
+    "id": "Jade_Hecarim",
+    "key": "60120",
+    "name": "Hecarim",
+    "title": "The Shadow of War",
+    "tags": ["Fighter", "Tank"]
+  },
+  "Jade_Yorick": {
+    "version": "16.15.1",
+    "id": "Jade_Yorick",
+    "key": "60083",
+    "name": "Yorick",
+    "title": "Shepherd of Souls",
+    "tags": ["Fighter", "Tank"]
+  },
+  "Jade_Mordekaiser": {
+    "version": "16.15.1",
+    "id": "Jade_Mordekaiser",
+    "key": "60082",
+    "name": "Mordekaiser",
+    "title": "The Iron Revenant",
+    "tags": ["Fighter", "Mage"]
   }
 }
