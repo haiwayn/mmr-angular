@@ -2030,5 +2030,29 @@
     "name": "Lucian",
     "title": "the Purifier",
     "tags": ["Marksman", "Assassin"]
+  },
+  "Jade_Volibear": {
+    "version": "16.15.1",
+    "id": "Volibear",
+    "key": "60106",
+    "name": "Volibear",
+    "title": "the Relentless Storm",
+    "tags": ["Fighter", "Tank"]
+  },
+  "Jade_Swain": {
+    "version": "16.15.1",
+    "id": "Swain",
+    "key": "60050",
+    "name": "Swain",
+    "title": "the Noxian Grand General",
+    "tags": ["Mage", "Support"]
+  },
+  "Jade_Elise": {
+    "version": "16.15.1",
+    "id": "Elise",
+    "key": "60060",
+    "name": "Elise",
+    "title": "the Spider Queen",
+    "tags": ["Assassin", "Mage"]
   }
 }
